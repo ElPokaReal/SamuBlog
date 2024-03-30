@@ -1,1 +1,1 @@
-# SamuBlog
+# SamuBlog ✍️
